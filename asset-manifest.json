@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/has-twoweb/static/css/main.31d6cfe0.css",
+    "main.js": "/has-twoweb/static/js/main.c6b41951.js",
+    "index.html": "/has-twoweb/index.html",
+    "main.c6b41951.js.map": "/has-twoweb/static/js/main.c6b41951.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c6b41951.js"
+  ]
+}
